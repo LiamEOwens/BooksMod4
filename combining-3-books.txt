@@ -25,7 +25,7 @@ Heidi,Johanna Spyri,Swiss German,1880,50 million[38],Children's fiction
 The Common Sense Book of Baby and Child Care,Benjamin Spock,English,1946,50 million[39],Manual
 Anne of Green Gables,Lucy Maud Montgomery,English,1908,50 million[40],General
 Black Beauty,Anna Sewell,English,1877,50 million[41],Chadsildren's literature
-The Name of the Rose (Il Nome della Rosa),Umberto Eco,Italian,1980,50 million[42],Historical novel, mystery
+The Name of the Rose (Il Nome della Rosa),Umberto Eco,Italian,1980,50 million[42],Historical novel mystery
 The Eagle Has Landed,Jack Higgins,English,1975,50 million[43],War, thriller
 Watership Down,Richard Adams,English,1972,50 million[44],Fantasy
 The Hite Report,Shere Hite,English,1976,50 million[45],Sexology
